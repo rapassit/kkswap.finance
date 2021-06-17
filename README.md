@@ -1,4 +1,4 @@
-# ![alt text](https://swap-championkub.finance/images/egg/LogoTextNewWhite.png) Championkub Finance - KCHAMPSwap Exchange
+# ![Alt text](public/images/LogoTextNewDark.png?raw=true "Title") Championkub Finance - KCHAMPSwap Exchange
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c6ef7e73-4a84-410d-83b0-b89326787dff/deploy-status)](https://app.netlify.com/sites/swap-master/deploys)
 
