@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@BitBlocksproject/bbfi-uikit":
-  version "0.10.2"
-  resolved "https://codeload.github.com/BitBlocksProject/bbfi-uikit/tar.gz/main"
+"@pancakeswap-libs/uikit@PEPS-Project/peps-uikit":
+  version "0.10.3"
+  resolved "https://codeload.github.com/PEPS-Project/peps-uikit/tar.gz/2ac026973d1fa482853a49843ca89baae48f73f8"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
