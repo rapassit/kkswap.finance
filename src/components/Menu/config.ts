@@ -34,10 +34,10 @@ const config: MenuEntry[] = [
         label: 'Github',
         href: 'https://github.com/ChampionKUB-Finance',
       },
-      {
-        label: 'Dex.guru',
-        href: 'https://dex.guru/token/0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7-bsc',
-      },
+      // {
+      //   label: 'Dex.guru',
+      //   href: 'https://dex.guru/token/0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7-bsc',
+      // },
       {
         label: 'Poocoin.app',
         href: 'https://poocoin.app/tokens/0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7',
