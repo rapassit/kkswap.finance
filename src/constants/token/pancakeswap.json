@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Pepper Finance",
-      "symbol": "PEPR",
-      "address": "0x019be1796178516e060072004f267b59a49a0801",
+      "name": "KKSwap Finance",
+      "symbol": "KKS",
+      "address": "0x763a6C694bC8d83e5e7e1D75e0929fd08F415696",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://swap.peps.today/images/PEPR.png"
+      "logoURI": "/images/coins/KKS.png"
     },
     {
       "name": "Wrapped PEPS",

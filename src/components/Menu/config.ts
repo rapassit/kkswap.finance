@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: "https://www.championkub.finance/",
+    href: "https://kkswap.finance/",
   },
   {
     label: "Exchange",
@@ -17,9 +17,9 @@ const config: MenuEntry[] = [
     href: "/pool",
   },
   {
-    label: 'Buy $KCHAMP',
+    label: 'Buy $KKS',
     icon: 'InfoIcon',
-    href: '/swap?outputCurrency=0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7',
+    href: '/swap?outputCurrency=0x763a6C694bC8d83e5e7e1D75e0929fd08F415696',
   },
   // {
   //   label: 'Pepper Farms',
@@ -32,23 +32,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/ChampionKUB-Finance',
+        href: 'https://github.com/amorthem/kkswap.finance',
       },
-      // {
-      //   label: 'Dex.guru',
-      //   href: 'https://dex.guru/token/0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7-bsc',
-      // },
+      {
+        label: 'Dex.guru',
+        href: 'https://dex.guru/token/0x763a6C694bC8d83e5e7e1D75e0929fd08F415696-bsc',
+      },
       {
         label: 'Poocoin.app',
-        href: 'https://poocoin.app/tokens/0xEFf2B84460535bDbaC5bF12452d48bD3D4bBB0d7',
+        href: 'https://poocoin.app/tokens/0x763a6C694bC8d83e5e7e1D75e0929fd08F415696',
       },
     ],
   },
-  {
-    label: 'Tokenomics',
-    icon: 'GitbookIcon',
-    href: 'https://championkub2021.gitbook.io/championkub-finance/',
-  },
+  // {
+  //   label: 'Tokenomics',
+  //   icon: 'GitbookIcon',
+  //   href: 'https://kkswap.gitbook.io/kkswap-finance/',
+  // },
 
 ]
 
