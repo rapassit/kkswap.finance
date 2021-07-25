@@ -49,6 +49,11 @@ const config: MenuEntry[] = [
   //   icon: 'GitbookIcon',
   //   href: 'https://kkswap.gitbook.io/kkswap-finance/',
   // },
+  {
+    label: 'เกี่ยวกับฉัน',
+    icon: 'InfoIcon',
+    href: '/about',
+  },
 
 ]
 

@@ -14,6 +14,7 @@ import MigrateV1 from './MigrateV1'
 import MigrateV1Exchange from './MigrateV1/MigrateV1Exchange'
 import RemoveV1Exchange from './MigrateV1/RemoveV1Exchange'
 import Pool from './Pool'
+import About from './About'
 import PoolFinder from './PoolFinder'
 // import Farm from './Farm'
 import RemoveLiquidity from './RemoveLiquidity'
@@ -122,6 +123,7 @@ export default function App() {
                   <Popups />
                   <Web3ReactManager>
                     <Switch>
+                      <Route exact strict path='/about' component={About} />
                       <Route exact strict path='/swap' component={Swap} />
                       <Route exact strict path='/swap/:outputCurrency' component={RedirectToSwap} />
                       <Route exact strict path='/send' component={RedirectPathToSwapOnly} />
